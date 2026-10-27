@@ -1,0 +1,44 @@
+# ===== Vivado: cartelle generate (si rigenerano da sole) =====
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sims/
+.Xil/
+
+# ===== Log, journal e file temporanei di Vivado =====
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+vivado*.jou
+vivado*.log
+vivado_pid*.str
+webtalk*.jou
+webtalk*.log
+*.debug
+hs_err_pid*.log
+*.rpt
+*.pb
+
+# ===== Checkpoint e output di implementazione =====
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.wdb
+*.wcfg.bak
+
+# ===== File di sistema / editor =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# ===== DA VERSIONARE (NON ignorare) =====
+# - *.xpr            (file di progetto Vivado)
+# - *.srcs/          (sorgenti VHDL, testbench, vincoli .xdc)

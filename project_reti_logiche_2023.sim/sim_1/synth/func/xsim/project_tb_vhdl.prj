@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"project_tb_func_synth.vhd" \
+"../../../../../../Desktop/progetto di reti/testbench/tb_2.vhd" \
+
+# Do not sort compile order
+nosort
