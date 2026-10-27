@@ -39,6 +39,3 @@ desktop.ini
 .vscode/
 .idea/
 
-# ===== DA VERSIONARE (NON ignorare) =====
-# - *.xpr            (file di progetto Vivado)
-# - *.srcs/          (sorgenti VHDL, testbench, vincoli .xdc)
