@@ -122,13 +122,6 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../Desktop/progetto di reti/testbench/tb_6.vhd">
-        <FileInfo>
-          <Attr Name="AutoDisabled" Val="1"/>
-          <Attr Name="UsedIn" Val="synthesis"/>
-          <Attr Name="UsedIn" Val="simulation"/>
-        </FileInfo>
-      </File>
       <File Path="$PPRDIR/../Desktop/progetti uni/progetto di reti/testbench/tb_4.vhd">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
