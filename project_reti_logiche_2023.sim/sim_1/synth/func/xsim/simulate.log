@@ -1,4 +1,0 @@
-Time resolution is 1 ps
-Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
-Time: 32400100 ps  Iteration: 0  Process: /project_tb/testRoutine  File: C:/Users/carlo/Desktop/progetto di reti/testbench/tb_2.vhd
-$finish called at time : 32400100 ps : File "C:/Users/carlo/Desktop/progetto di reti/testbench/tb_2.vhd" Line 342

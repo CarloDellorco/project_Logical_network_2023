@@ -1,7 +1,0 @@
-Running: xsim.dir/project_reti_logiche_func_synth/xsimk.exe -simmode gui -wdb project_reti_logiche_func_synth.wdb -simrunnum 0 -socket 56439
-Design successfully loaded
-Design Loading Memory Usage: 8136 KB (Peak: 8136 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 8924 KB (Peak: 8924 KB)
-Simulation CPU Usage: 62 ms
